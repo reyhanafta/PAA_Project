@@ -1,0 +1,39 @@
+{
+    "bus": [
+        {
+            "kategori" : "bus",
+            "nama" : "Gunung Harta",
+            "deskripsi" : "Bus yang bagus dan menawan",
+            "harga" : "350.000,-",
+            "gambar" : "gharta.jpg"
+        },
+        {
+            "kategori" : "bus",
+            "nama" : "Lorena",
+            "deskripsi" : "Bus yang bagus dan menawan",
+            "harga" : "450.000,-",
+            "gambar" : "lorena.jpeg"
+        },
+        {
+            "kategori" : "bus",
+            "nama" : "Laju Prima",
+            "deskripsi" : "Bus yang bagus dan menawan",
+            "harga" : "250.000,-",
+            "gambar" : "laju.jpeg"
+        },
+        {
+            "kategori" : "bus",
+            "nama" : "Nusantara",
+            "deskripsi" : "Bus yang bagus dan menawan",
+            "harga" : "550.000,-",
+            "gambar" : "nusantara.jpg"
+        },
+        {
+            "kategori" : "bus",
+            "nama" : "PO. Haryanto",
+            "deskripsi" : "Bus yang bagus dan menawan",
+            "harga" : "550.000,-",
+            "gambar" : "haryanto.jpg"
+        }
+    ]
+}
